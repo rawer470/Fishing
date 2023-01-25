@@ -1,0 +1,92 @@
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish Black.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish Grey.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish orange.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish White.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\fisher.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.exe
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.deps.json
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.runtimeconfig.json
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.runtimeconfig.dev.json
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.dll
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.pdb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.csproj.AssemblyReference.cache
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.AssemblyInfoInputs.cache
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.AssemblyInfo.cs
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.csproj.CopyComplete
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.dll
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.pdb
+C:\Users\rizha\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.genruntimeconfig.cache
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\leska.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Danechka.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Sapog.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Без имени-1.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Back.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\gameFont.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Duck.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\хуй.xnb
+C:\Users\rizha\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\debug.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.csproj.AssemblyReference.cache
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.AssemblyInfoInputs.cache
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.AssemblyInfo.cs
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.dll
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.pdb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Без имени-1.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\хуй.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Back.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Danechka.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\debug.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Duck.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish Black.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish Grey.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish orange.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Fish White.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\fisher.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\gameFont.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\hook.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\leska.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\Sapog.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.exe
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.deps.json
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.runtimeconfig.json
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.runtimeconfig.dev.json
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Fishing.pdb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.csproj.CopyComplete
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.genruntimeconfig.cache
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\water.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\MenuFont.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Content\InfoFont.xnb
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.Diagnostics.Eventing.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.Foundation.Logging.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.Foundation.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.UI.Composition.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.UI.Dispatching.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.UI.FluentTheme.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.UI.FluentTheme.v1.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.UI.FluentTheme.v2.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.UI.Toolkit.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.UI.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.Xaml.dll
+C:\Users\timon\source\repos\Fishing\Fishing\bin\Debug\netcoreapp3.1\Uno.dll
+C:\Users\timon\source\repos\Fishing\Fishing\obj\Debug\netcoreapp3.1\Fishing.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig

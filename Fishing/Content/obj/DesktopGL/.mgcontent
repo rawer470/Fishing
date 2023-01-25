@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Back.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Danechka.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/debug.jpg</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Duck.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Fish Black.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Fish Grey.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Fish orange.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Fish White.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/fisher.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/gameFont.spritefont</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/hook.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/InfoFont.spritefont</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/leska.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/MenuFont.spritefont</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/Sapog.png</File>
+    <File>C:/Users/timon/source/repos/Fishing/Fishing/Content/water.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
